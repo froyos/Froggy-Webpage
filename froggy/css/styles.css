@@ -1,0 +1,159 @@
+body {
+  text-align:center;
+  margin:0;
+  background-color: #FFF1BD;
+}
+
+skillDiv {
+    text-align: center;
+}
+
+.skills {
+    background-color: #F3C892;
+}
+
+h1 {
+  font-family: 'Delius Unicase', sans-serif;
+  font-size: 6rem;
+  color: #146356;
+  margin-bottom: 30px;
+}
+
+h2 {
+    font-family: Monsterrat, sans-serif;
+    font-size: 1.7rem;
+    color: #146356;
+}
+
+.top-container {
+    background-color: #A3DA8D;
+    padding: 104px 0 190px;
+    margin-bottom: 100px;
+}
+
+.top-container > img {
+    position: relative;
+    display: inline-block;
+}
+
+.top-container > img:nth-child(1) {
+  left: -312px;
+  top: 350px;
+  transform: rotate(120deg);
+}
+
+.top-container > img:nth-child(2) {
+  left: 317px;
+  top: 114px;
+  transform: rotate(239deg);
+}
+
+.top-container > img:nth-child(5) {
+  
+}
+
+hr {
+  width: 5%;
+  border-width: thick;
+  border-style: dotted;
+  border-bottom: none;
+  margin: 100px auto 50px;
+  border-color: #6c6262;
+}
+
+.about > img:nth-child(1) {
+  background-color: #146356;
+  border-radius: 100%;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.about > p:nth-child(3) {
+  margin-top:30px;
+}
+
+h3 {
+  font-family: Monsterrat, sans-serif;
+  color: #6c6262;
+  font-weight: bold;
+}
+
+.skills {
+  padding: 50px 0px 1px;
+}
+.skillImages.top {
+  width: 250px;
+  height: 250px;
+  background-color: #ffffff;
+  border-radius: 100%;
+  padding: 50px;
+  display: inline-block;
+  position: relative;
+  top: 9px;
+}
+
+.skillImages.bottom {
+  width: 250px;
+  height: 250px;
+  background-color: #ffffff;
+  border-radius: 100%;
+  padding: 50px;
+  display: inline-block;
+  position: relative;
+  top: 45px;
+  margin-bottom: 20px;
+}
+
+.spyTools {
+  line-height: 2;
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  margin: 42px 0 39px 15px;
+}
+
+.disguiseGenius {
+  line-height: 2;
+  margin-top: 47px;
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  margin-left: 15px;
+}
+
+.contact-me {
+  margin: 40px 0 50px;
+}
+
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #146356;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a3ca8d;
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 2rem;
+  background-color: #146356;
+  padding: 2rem 0px;
+  font-family: Monsterrat, sans-serif;
+  color:#000000;
+}
+
+a {
+  text-decoration: none;
+  font-family: Monsterrat, sans-serif;
+  margin: 10px;
+  color:#a3ca8d;
+}
+
+a:hover {
+  color: #FFF1BD;
+}
